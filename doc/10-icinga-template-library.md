@@ -1656,7 +1656,7 @@ nscp_cpu_time       | **Optional.** Calculate avarage usage for the given time i
 nscp_cpu_warning    | **Optional.** Threshold for WARNING state in percent, default to 80.
 nscp_cpu_critical   | **Optional.** Threshold for CRITICAL state in percent, default to 90.
 nscp_cpu_arguments  | **Optional.** Additional arguments.
-nscp_cpu_showall    | **Optional.** Shows more details in plugin output, default to false.
+nscp_cpu_showall    | **Optional.** Shows more details in plugin output, default to true.
 
 ### <a id="nscp-check-local-memory"></a> nscp-local-memory
 
